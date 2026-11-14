@@ -1,4 +1,3 @@
-# World-Indicators-Tableau-Analysis
 # World Indicators Analysis Dashboard
 This project presents an interactive Tableau dashboard created using the World Indicators dataset.
 
